@@ -4,3 +4,4 @@ Steps to go through:
    `npm install jest`
 
 2. write first failing test
+   We decided this test was already changed
