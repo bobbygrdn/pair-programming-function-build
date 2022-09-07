@@ -1,3 +1,5 @@
+const randomizer = require('./index')
+
 describe('randomizer', () => {
     it('Should return a list of pair objects', () => {
         // Arrange
