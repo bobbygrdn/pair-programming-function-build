@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bobbygrdn/test-build/issues"
   },
-  "homepage": "https://github.com/bobbygrdn/test-build#readme"
+  "homepage": "https://github.com/bobbygrdn/test-build#readme",
+  "dependencies": {
+    "jest": "^29.0.2"
+  }
 }
