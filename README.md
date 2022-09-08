@@ -1,7 +1,3 @@
-Clean up
-
-1. Change assertion step in main to reflect using an array -> Array.isArray()
-
 Steps to go through:
 
 Before we start you should know
