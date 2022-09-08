@@ -3,7 +3,7 @@ const randomizer = require('./index')
 describe('randomizer', () => {
     it('Should return a list of pair objects', () => {
         // Arrange
-            /* Ideal result should look like the object below 
+            /* Ideal result should look like the object below
             let result = [
                 {P1: STUDENT NAME, P2: STUDENT NAME},
                 {P1: STUDENT NAME, P2: STUDENT NAME}
@@ -24,7 +24,7 @@ describe('randomizer', () => {
     })
     it('Should return a list of objects where one object has three people', () => {
         // Arrange
-/* Ideal result should look like the object below 
+            /* Ideal result should look like the object below
             let result = [
                 {P1: STUDENT NAME, P2: STUDENT NAME},
                 {P1: STUDENT NAME, P2: STUDENT NAME},
