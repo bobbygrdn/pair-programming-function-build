@@ -12,30 +12,24 @@
 
 ### TODO
 
-1. Run 'npm test' -> Result should be two failing test
+1. Run 'npm install' -> This will install all necessary modules
 
-2. Add return of an empty array to function
+2. Run 'npm test' -> Result should be two failing tests
 
-3. Run 'npm test' -> Result should be two failing tests
+3. Add results array
 
-4. Write object assertion typeof result at index 0
+4. Run 'npm test' -> Result should be two failing tests
 
-5. Run 'npm test' -> Result should be two failing tests
+5. Build loop to loop through the students array
 
-6. Add students array as parameter
+6. Pull elements from the array and put two at a time into an object
 
-7. Create results array
+7. Push that object into the result array
 
-8. Build loop to loop through the array
+8. Return the result array
 
-9. Pull elements from the array and put two at a time into an object
+9. Run 'npm test' -> Result should be passing test 1
 
-10. Push that object into the result array
+10. Refactor code to handle odd number of people
 
-11. Return the result array
-
-12. Run 'npm test' -> Result should be passing test 1
-
-13. Refactor code to handle odd number of people
-
-14. Run 'npm test' -> Result should be two passing tests
+11. Run 'npm test' -> Result should be two passing tests
