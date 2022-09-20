@@ -1,6 +1,6 @@
-Steps to go through:
+## Steps to go through:
 
-Before we start you should know
+### Before we start you should know
 
 1. I have Installed Jest - just like Chai or Mocha which you've already seen!
 
@@ -8,7 +8,7 @@ Before we start you should know
 
 3. I have exported the randomizer!
 
-TODO
+### TODO
 
 1. Run 'npm test' -> Result should be two failing test
 
