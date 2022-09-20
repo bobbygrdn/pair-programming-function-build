@@ -40,6 +40,6 @@
 
 15. Run 'npm test' -> Result should be passing test 1
 
-16. Refactor code to include one object with 3 people
+16. Refactor code to handle odd number of people
 
 17. Run 'npm test' -> Result should be two passing tests
