@@ -10,7 +10,7 @@
 
 ### TODO
 
-1. Run 'npm test' -> Result should be two failing test
+* 1. Run 'npm test' -> Result should be two failing test
 
 2. Look at the error for the test -> The error says randomizer.randomize is not a function
 
