@@ -8,6 +8,8 @@
 
 3. I have exported the randomizer!
 
+4. You will only be working in the index.js file!
+
 ### TODO
 
 1. Run 'npm test' -> Result should be two failing test
